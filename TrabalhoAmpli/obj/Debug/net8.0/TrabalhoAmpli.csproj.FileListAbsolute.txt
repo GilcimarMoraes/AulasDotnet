@@ -1,0 +1,14 @@
+/home/myrraws/Documentos/Ampli/C#/TrabalhoAmpli/obj/Debug/net8.0/TrabalhoAmpli.GeneratedMSBuildEditorConfig.editorconfig
+/home/myrraws/Documentos/Ampli/C#/TrabalhoAmpli/obj/Debug/net8.0/TrabalhoAmpli.AssemblyInfoInputs.cache
+/home/myrraws/Documentos/Ampli/C#/TrabalhoAmpli/obj/Debug/net8.0/TrabalhoAmpli.AssemblyInfo.cs
+/home/myrraws/Documentos/Ampli/C#/TrabalhoAmpli/obj/Debug/net8.0/TrabalhoAmpli.csproj.CoreCompileInputs.cache
+/home/myrraws/Documentos/Ampli/C#/TrabalhoAmpli/bin/Debug/net8.0/TrabalhoAmpli
+/home/myrraws/Documentos/Ampli/C#/TrabalhoAmpli/bin/Debug/net8.0/TrabalhoAmpli.deps.json
+/home/myrraws/Documentos/Ampli/C#/TrabalhoAmpli/bin/Debug/net8.0/TrabalhoAmpli.runtimeconfig.json
+/home/myrraws/Documentos/Ampli/C#/TrabalhoAmpli/bin/Debug/net8.0/TrabalhoAmpli.dll
+/home/myrraws/Documentos/Ampli/C#/TrabalhoAmpli/bin/Debug/net8.0/TrabalhoAmpli.pdb
+/home/myrraws/Documentos/Ampli/C#/TrabalhoAmpli/obj/Debug/net8.0/TrabalhoAmpli.dll
+/home/myrraws/Documentos/Ampli/C#/TrabalhoAmpli/obj/Debug/net8.0/refint/TrabalhoAmpli.dll
+/home/myrraws/Documentos/Ampli/C#/TrabalhoAmpli/obj/Debug/net8.0/TrabalhoAmpli.pdb
+/home/myrraws/Documentos/Ampli/C#/TrabalhoAmpli/obj/Debug/net8.0/TrabalhoAmpli.genruntimeconfig.cache
+/home/myrraws/Documentos/Ampli/C#/TrabalhoAmpli/obj/Debug/net8.0/ref/TrabalhoAmpli.dll
